@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## References
+
+JacobHsu/[github-actions-demo](https://github.com/JacobHsu/github-actions-demo)  
+`.github\workflows\ci.yml`  
+
 ## Available Scripts
 
 In the project directory, you can run:
