@@ -2,7 +2,7 @@ import React from "react";
 class App extends React.Component {
     render() {
         return (<div>
-           Component App
+            {this.props.children}
         </div>)
     }
 }

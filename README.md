@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 JacobHsu/[github-actions-demo](https://github.com/JacobHsu/github-actions-demo)  
 `.github\workflows\ci.yml`  
 
+package.json
+
+```js
+  "homepage": "https://jacobhsu.github.io/react-did-site/",
+```
+
 ## Available Scripts
 
 In the project directory, you can run:

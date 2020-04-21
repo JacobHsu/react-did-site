@@ -10,6 +10,7 @@ import history from "./utils/history";
 import createRootReducer from "./reducers";
 
 import Routes from "./routes";
+import "./i18n";
 
 const sagaMiddleware = createMiddleware();
 const rootReducer = createRootReducer(history);
