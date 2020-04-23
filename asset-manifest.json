@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-did-site/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-did-site/static/js/main.b552bc8c.chunk.js",
-    "main.js.map": "/react-did-site/static/js/main.b552bc8c.chunk.js.map",
+    "main.css": "/react-did-site/static/css/main.00b383be.chunk.css",
+    "main.js": "/react-did-site/static/js/main.dcc747b7.chunk.js",
+    "main.js.map": "/react-did-site/static/js/main.dcc747b7.chunk.js.map",
     "runtime-main.js": "/react-did-site/static/js/runtime-main.a1e0ccb2.js",
     "runtime-main.js.map": "/react-did-site/static/js/runtime-main.a1e0ccb2.js.map",
-    "static/js/2.e39c9ea3.chunk.js": "/react-did-site/static/js/2.e39c9ea3.chunk.js",
-    "static/js/2.e39c9ea3.chunk.js.map": "/react-did-site/static/js/2.e39c9ea3.chunk.js.map",
+    "static/js/2.24793be9.chunk.js": "/react-did-site/static/js/2.24793be9.chunk.js",
+    "static/js/2.24793be9.chunk.js.map": "/react-did-site/static/js/2.24793be9.chunk.js.map",
     "index.html": "/react-did-site/index.html",
-    "precache-manifest.c26d13f8bb6d9551609c645da988b4d6.js": "/react-did-site/precache-manifest.c26d13f8bb6d9551609c645da988b4d6.js",
+    "precache-manifest.074fa544b01df72def9304374e073536.js": "/react-did-site/precache-manifest.074fa544b01df72def9304374e073536.js",
     "service-worker.js": "/react-did-site/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/react-did-site/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.e39c9ea3.chunk.js.LICENSE.txt": "/react-did-site/static/js/2.e39c9ea3.chunk.js.LICENSE.txt",
+    "static/css/main.00b383be.chunk.css.map": "/react-did-site/static/css/main.00b383be.chunk.css.map",
+    "static/js/2.24793be9.chunk.js.LICENSE.txt": "/react-did-site/static/js/2.24793be9.chunk.js.LICENSE.txt",
     "static/media/angle-icon.svg": "/react-did-site/static/media/angle-icon.732b78bd.svg",
     "static/media/arrow-left.svg": "/react-did-site/static/media/arrow-left.37b638cc.svg",
     "static/media/citizen-icon.svg": "/react-did-site/static/media/citizen-icon.4a871205.svg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a1e0ccb2.js",
-    "static/js/2.e39c9ea3.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b552bc8c.chunk.js"
+    "static/js/2.24793be9.chunk.js",
+    "static/css/main.00b383be.chunk.css",
+    "static/js/main.dcc747b7.chunk.js"
   ]
 }
