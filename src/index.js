@@ -12,6 +12,8 @@ import createRootReducer from "./reducers";
 import Routes from "./routes";
 import "./i18n";
 
+import "./css/index.css"
+
 const sagaMiddleware = createMiddleware();
 const rootReducer = createRootReducer(history);
 const store = configureStore(rootReducer, sagaMiddleware, routerMiddleware(history));

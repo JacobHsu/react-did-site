@@ -8,7 +8,7 @@ import Form from "./FormContainer";
 // import Receive from "./ReceiveContainer";
 import Success from "../shared/Success";
 import ClaimExists from "./ClaimExists";
-// import Footer from "../shared/Footer";
+import Footer from "../shared/Footer";
 import { ContentLayout, BackButton } from "../shared/elements";
 import { Container } from "../shared/grid";
 import { SERVICES, registration } from "../../constants/config";
@@ -48,7 +48,7 @@ const Registration = () => {
         />
       </Switch>
     </Container>
-    {/* <Footer /> */}
+    <Footer />
   </ContentLayout>)
 };
 
